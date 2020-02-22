@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Human_base
+  - Jellyman_base
+  - Harpoon
+  - Ship
+  - Fish
+  - Trident
+  - Map_Limite
+  - Divine_sponge_ressource
+  - Hamecon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Harpoon
+  - Trident
+  - Ship
+  - Fish
+  - Human_base
+  - Jellyman_base
+  - Map_Layer_Air
+  - Map_Layer_Left
+  - Map_Layer_Abysse
+  - Map_Layer_Right
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
